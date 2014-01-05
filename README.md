@@ -29,6 +29,12 @@ key := converter.GetKey(1988483) // returns "ninja"
 num := converter.GetInt("emq")   // returns 1337
 ```
 
+You can also check the [godocs for AlphaKey](http://godoc.org/github.com/joho/alphakey)
+
+## Build Status
+
+[![wercker status](https://app.wercker.com/status/c6de7a7f75baca3f7e1848f674c9b8be/m "wercker status")](https://app.wercker.com/project/bykey/c6de7a7f75baca3f7e1848f674c9b8be)
+
 ---
 
 &copy; 2013 [John Barton](http://whoisjohnbarton.com), MIT Licenced
