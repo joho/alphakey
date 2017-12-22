@@ -37,4 +37,4 @@ You can also check the [godocs for AlphaKey](http://godoc.org/github.com/joho/al
 
 ---
 
-&copy; 2013 [John Barton](http://whoisjohnbarton.com), MIT Licenced
+&copy; 2013 [John Barton](https://johnbarton.co/), MIT Licenced
